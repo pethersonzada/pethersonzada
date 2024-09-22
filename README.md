@@ -1,9 +1,11 @@
-<h2 align="center">Olá, meu nome é Miguel! Mas pode me chamar de Petherson :) 🎮🕹️🎵</h2>
+<h2 align="center">Olá, meu nome é Miguel! Mas pode me chamar de Petherson.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pethersonzada&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&custom_title=Minhas%20linguagens%20mais%20usadas!" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pethersonzada&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&custom_title=Minhas%20linguagens%20mais%20usadas!" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=pethersonzada&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pethersonzada&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
