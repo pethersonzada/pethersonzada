@@ -8,6 +8,10 @@
 
 ###
 
+<h3 align="center">Minhas redes sociais! Caso se sinta à vontade, pode me mandar alguma mensagem!</h3>
+
+###
+
 <div align="center">
   <a href="https://www.youtube.com/@pethersonzada" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="65" height="35" alt="youtube logo"  />
@@ -37,10 +41,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<h3 align="center">Minhas redes sociais! Caso se sinta à vontade, pode me mandar alguma mensagem!</h3>
 
 ###
 
