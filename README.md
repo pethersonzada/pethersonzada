@@ -1,11 +1,6 @@
 <h2 align="center">Olá, meu nome é Miguel! Mas pode me chamar de Petherson.</h2>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pethersonzada&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&custom_title=Minhas%20linguagens%20mais%20usadas!" height="170" alt="languages graph"  />
-</div>
-
 ###
 
 <h3 align="center">Minhas redes sociais! Caso se sinta à vontade, pode me mandar alguma mensagem!</h3>
