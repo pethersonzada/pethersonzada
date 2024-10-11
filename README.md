@@ -69,7 +69,7 @@
 
 ###
 
-<h3 align="center">Tecnologia/Linguagens que tenho interesse em aprender:</h3>
+<h3 align="center">Tecnologias/Linguagens que tenho interesse em aprender:</h3>
 
 ###
 
