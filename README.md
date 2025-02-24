@@ -52,7 +52,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
@@ -81,15 +81,14 @@
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="4" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" style="margin: 10px 4px 0 0;" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo" style="margin: 10px 4px 0 0;" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" style="margin: 10px 4px 0 0;" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" style="margin: 10px 4px 0 0;" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo" style="margin: 10px 4px 0 0;" />
 </div>
 
 ###
