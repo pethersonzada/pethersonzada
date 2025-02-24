@@ -54,41 +54,41 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
 </div>
 
