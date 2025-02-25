@@ -2,7 +2,6 @@
 
 <h3 align="center">👩‍💻  Descubra mais sobre mim!</h3>
 
-
 <p align="left">
   🔭 Atualmente, estou estudando Análise e Desenvolvimento de Sistemas.<br>
   
@@ -26,6 +25,21 @@
     </td>
   </tr>
 </table>
+
+<h3 align="center">Entre em contato comigo!</h3>
+
+<table align="center">
+  <tr>
+    <td><a href="https://www.linkedin.com/in/pethersonzada/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="40"></a></td>
+    <td><a href="https://www.youtube.com/@pethersonzada" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" height="40"></a></td>
+    <td><a href="https://www.instagram.com/pethersonzada/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="40"></a></td>
+    <td><a href="mailto:pethersonzada@gmail.com" target="_blank"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="48"></a></td>
+    <td><a href="https://www.twitch.tv/pethersonzada" target="_blank"><img src="https://static.twitchcdn.net/assets/favicon-32-d6025c14e900565d6177.png" width="40"></a></td>
+    <td><a href="https://wa.me/91976404/?text=Olá!+Vim+pelo+perfil+do+GitHub" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" height="40"></a></td>
+  </tr>
+</table>
+
+<br clear="both">
 
 <table align="center">
   <tr>
@@ -58,13 +72,18 @@
   </tr>
   <tr>
     <td align="center">
-      <h3>🛠 Ferramentas e Versionamento</h3>
-      <img src="https://skillicons.dev/icons?i=git,github" height="40" />
-    </td>
-    <td align="center">
+      <h3>🛠 Ferramentas</h3>
+      <img src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.png" height="37">
+      <img src="https://skillicons.dev/icons?i=git" height="40" />
+      <img src="https://skillicons.dev/icons?i=github" height="40" />
+      
+  </td>
+    
+  <td align="center">
       <h3>🎨 Design e Edição</h3>
       <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" />
       <img src="https://skillicons.dev/icons?i=ps,ai" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" height="40"/>
     </td>
   </tr>
 </table>
