@@ -75,18 +75,18 @@
   <tr>
     <td align="center" valign="top" style="padding-right: 15px;">
       <a href="https://open.spotify.com/user/31k7d6y5farobdpko3ap4xtjf4ga">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k7d6y5farobdpko3ap4xtjf4ga&count=10&unique=true" 
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k7d6y5farobdpko3ap4xtjf4ga&count=8&unique=true" 
              alt="O que tocou recentemente no meu Spotify..." width="7000"/>
       </a>
     </td>
     <td align="left" valign="top" style="padding: 10px; max-width: 180px;">
       <h3 align="center">🎵 Meu gosto musical</h3>
       <p style="font-size: 13px; line-height: 1.3;">
- Meu gosto musical é dominado pelo rock e suas vertentes. Curto o peso e a energia de bandas como <b>Slipknot, Avenged Sevenfold, System of a Down e Rammstein</b>, que trazem uma sonoridade intensa e marcante. Também sou fã dos clássicos que moldaram o gênero, como <b>Metallica, AC/DC, Iron Maiden e Scorpions</b>, que definiram o heavy metal e o hard rock ao longo das décadas. <br><br>
+Meu gosto musical é dominado pelo rock. Curto o peso de <b>Slipknot, Avenged Sevenfold, System of a Down e Rammstein</b>, além dos clássicos que moldaram o gênero, como <b>Metallica, AC/DC, Iron Maiden e Scorpions</b>. <br><br>
 
-Além disso, gosto de bandas que misturam rock com outros estilos, como <b>Linkin Park e Limp Bizkit</b>, que elevaram o nu metal a outro nível. O <b>Red Hot Chili Peppers</b> também não pode faltar, com um groove único que mescla funk e rock alternativo. No cenário nacional, admiro <b>Tim Maia, Charlie Brown Jr. e Legião Urbana</b>, cada um deixando sua marca com músicas que atravessam gerações. <br><br>
+Também curto bandas que misturam rock com outros estilos, como <b>Linkin Park e Limp Bizkit</b>, que elevaram o nu metal a outro nível. O <b>Red Hot Chili Peppers</b> não pode faltar, com seu groove único. No nacional, admiro <b>Tim Maia, Charlie Brown Jr. e Legião Urbana</b>, cada um com sua marca. <br><br>
 
-Para momentos mais introspectivos, também curto bandas com uma pegada mais melancólica, como <b>Arctic Monkeys</b>, que variam entre faixas animadas e composições de atmosfera densa. O <b>Charlie Brown Jr.</b>, em especial, equilibra bem atitude e reflexão em suas letras, combinando rock e skate punk de um jeito autêntico. <br><br>
+Para momentos mais introspectivos, curto <b>Arctic Monkeys</b>, que mescla faixas animadas e melancólicas. O <b>Charlie Brown Jr.</b>, em especial, equilibra bem atitude e reflexão em suas letras. <br><br>
 
 No fim, o que mais me atrai na música é a energia e a emoção que ela transmite.
     </td>
