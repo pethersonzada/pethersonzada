@@ -32,7 +32,9 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>🚀 Linguagens de Programação</h3>
+      <h3>🚀 Ecossistema Tecnológico</h3>
+      <img src="https://skillicons.dev/icons?i=html" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" />
       <img src="https://skillicons.dev/icons?i=py,js,java" height="40" />
     </td>
     <td align="center" width="50%">
@@ -47,31 +49,23 @@
   </tr>
   <tr>
     <td align="center">
-      <h3>🗄 Banco de Dados</h3>
-      <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-    </td>
-    <td align="center">
-      <h3>🌐 Desenvolvimento Web</h3>
-      <img src="https://skillicons.dev/icons?i=html" height="40" />
-      <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>🛠 Ferramentas</h3>
-      <img src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.png" height="37">
+      <h3>📊 Ferramentas</h3>
+      <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" height="40" alt="Power BI" />
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+      <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/word.png" height="40" />
+      <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" height="40" alt="Excel" />
+      <img src="https://skillicons.dev/icons?i=notion" height="40" />
       <img src="https://skillicons.dev/icons?i=git" height="40" />
       <img src="https://skillicons.dev/icons?i=github" height="40" />
-      
+    </td>
+ 
   </td>
     
   <td align="center">
       <h3>🎨 Design e Edição</h3>
-      <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" />
       <img src="https://skillicons.dev/icons?i=ps,ai" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" height="40"/>
+      <img src="https://skillicons.dev/icons?i=figma" height="40" />
     </td>
   </tr>
 </table>
