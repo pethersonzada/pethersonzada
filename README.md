@@ -35,7 +35,8 @@
       <h3>🚀 Ecossistema Tecnológico</h3>
       <img src="https://skillicons.dev/icons?i=html" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" />
-      <img src="https://skillicons.dev/icons?i=py,js,java" height="40" />
+      <img src="https://skillicons.dev/icons?i=js,py,java" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" />
     </td>
     <td align="center" width="50%">
       <h3>📚 Bibliotecas e Frameworks</h3>
