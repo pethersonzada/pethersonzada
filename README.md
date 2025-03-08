@@ -32,7 +32,7 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>🚀 Ecossistema Tecnológico</h3>
+      <h3>🚀 Tecnologias de Desenvolvimento Web e Programação</h3>
       <img src="https://skillicons.dev/icons?i=html" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" />
       <img src="https://skillicons.dev/icons?i=js,py,java" height="40" />
@@ -46,6 +46,9 @@
       <img src="https://skillicons.dev/icons?i=django" height="40" />
       <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" />
+      <img src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4" height="40" />
+      <img src="https://avatars.githubusercontent.com/u/15658638?s=48&v=4" height="40" />
+      <img src="https://avatars.githubusercontent.com/u/365630?s=48&v=4" height="40" />
     </td>
   </tr>
   <tr>
