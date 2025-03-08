@@ -54,7 +54,6 @@
       <img src="https://skillicons.dev/icons?i=mysql" height="40" />
       <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/word.png" height="40" />
       <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" height="40" alt="Excel" />
-      <img src="https://skillicons.dev/icons?i=notion" height="40" />
       <img src="https://skillicons.dev/icons?i=git" height="40" />
       <img src="https://skillicons.dev/icons?i=github" height="40" />
     </td>
