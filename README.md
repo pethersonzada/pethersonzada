@@ -43,7 +43,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
       <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" />
-      <img src="https://skillicons.dev/icons?i=django" height="40" />
       <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" />
       <img src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4" height="40" />
