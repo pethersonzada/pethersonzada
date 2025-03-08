@@ -39,7 +39,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" />
     </td>
     <td align="center" width="50%">
-      <h3>📚 Bibliotecas e Frameworks</h3>
+      <h3>📚 Bibliotecas e Frameworks para IA & Dados</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
       <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" />
