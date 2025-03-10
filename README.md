@@ -85,29 +85,10 @@
   </tr>
 </table>
 
-<br clear="both">
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pethersonzada.pethersonzada&right_color=red&left_text=Visitantes"  />
+</div>
 
-<table align="center" style="border-collapse: collapse;">
-  <tr>
-    <td align="center" valign="top" style="padding-right: 15px;">
-      <a href="https://open.spotify.com/user/31k7d6y5farobdpko3ap4xtjf4ga">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k7d6y5farobdpko3ap4xtjf4ga&count=8&unique=true" 
-             alt="O que tocou recentemente no meu Spotify..." width="7000"/>
-      </a>
-    </td>
-    <td align="left" valign="top" style="padding: 10px; max-width: 180px;">
-      <h3 align="center">🎵 Meu gosto musical</h3>
-      <p style="font-size: 13px; line-height: 1.3;">
-Meu gosto musical é dominado pelo rock. Curto o peso de <b>Slipknot, Avenged Sevenfold, System of a Down e Rammstein</b>, além dos clássicos que moldaram o gênero, como <b>Metallica, AC/DC, Iron Maiden e Scorpions</b>. <br><br>
-
-Também curto bandas que misturam rock com outros estilos, como <b>Linkin Park e Limp Bizkit</b>, que elevaram o nu metal a outro nível. O <b>Red Hot Chili Peppers</b> não pode faltar, com seu groove único. No nacional, admiro <b>Tim Maia, Charlie Brown Jr. e Legião Urbana</b>, cada um com sua marca. <br><br>
-
-Para momentos mais introspectivos, curto <b>Arctic Monkeys</b>, que mescla faixas animadas e melancólicas. O <b>Charlie Brown Jr.</b>, em especial, equilibra bem atitude e reflexão em suas letras. <br><br>
-
-No fim, o que mais me atrai na música é a energia e a emoção que ela transmite.
-    </td>
-  </tr>
-</table>
 
 
 
