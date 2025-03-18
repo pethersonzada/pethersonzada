@@ -1,4 +1,4 @@
-<h2 align="center">Olá, meu nome é Miguel! Mas pode me chamar de Petherson. 💻🧑🏻‍💻🎮</h2>
+<h2 align="center">👋 Olá, eu sou o Petherson! 💻 Estudante de tecnologia, aprimorando minhas habilidades em Python, análise de dados e automação! 🚀</h2>
 
 <h3 align="center">👩‍💻  Descubra mais sobre mim!</h3>
 
