@@ -85,9 +85,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pethersonzada.pethersonzada&right_color=red&left_text=Visitantes"  />
-</div>
 
 
 
