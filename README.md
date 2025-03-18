@@ -7,25 +7,35 @@
   
   📚 No momento, estou aprimorando minhas habilidades em Python, SQL e análise de dados.<br>
   
+  📊 Trabalho com Python para análise de dados e automação, utilizando pandas, numpy e SQL. Também tenho conhecimentos em desenvolvimento web com JavaScript, HTML e CSS.<br>
+  
   ⚡ Busco constantemente criar soluções eficientes e inovadoras, aplicando tecnologia para resolver problemas do mundo real.<br>
   
   🎮 Sou um grande fã da franquia Half-Life, Portal, Left 4 Dead e Counter-Strike – jogos incríveis e maravilhosos (platinei os que pude!).
-
 </p>
 
-<table>
+<h2></h2>
+
+<h3 align="center">Entre em contato comigo!</h3>
+
+<table align="center">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pethersonzada&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=gotham&hide_border=false" height="200" alt="languages graph" />
-    </td>
-    <td width="50%">
-      <p>
-        Trabalho com Python para análise de dados e automação, usando bibliotecas como pandas e numpy para manipulação e extração de insights. Também utilizo SQL para consultas e gestão de dados. Além disso, já explorei JavaScript, HTML e CSS no desenvolvimento web e sigo aprendendo novas tecnologias para ampliar minhas habilidades.
-      </p>
-    </td>
+    <td><a href="https://www.linkedin.com/in/pethersonzada/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="40"></a></td>
+    <td><a href="https://www.youtube.com/@pethersonzada" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" height="40"></a></td>
+    <td><a href="https://www.instagram.com/pethersonzada/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="40"></a></td>
+    <td><a href="mailto:pethersonzada@gmail.com" target="_blank"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="48"></a></td>
+    <td><a href="https://www.twitch.tv/pethersonzada" target="_blank"><img src="https://static.twitchcdn.net/assets/favicon-32-d6025c14e900565d6177.png" width="40"></a></td>
+    <td><a href="https://wa.me/91976404/?text=Olá!+Vim+pelo+perfil+do+GitHub" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" height="40"></a></td>
   </tr>
 </table>
 
+<h2></h2>
+
+<h3 align='center'>Minhas Tecnologias e Ferramentas</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pethersonzada&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=gotham&hide_border=false" height="200" alt="languages graph" />
+</div>
 
 <br clear="both">
 
@@ -72,18 +82,7 @@
   </tr>
 </table>
 
-<h3 align="center">Entre em contato comigo!</h3>
 
-<table align="center">
-<tr>
-    <td><a href="https://www.linkedin.com/in/pethersonzada/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="40"></a></td>
-    <td><a href="https://www.youtube.com/@pethersonzada" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" height="40"></a></td>
-    <td><a href="https://www.instagram.com/pethersonzada/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="40" height="40"></a></td>
-    <td><a href="mailto:pethersonzada@gmail.com" target="_blank"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" height="40"></a></td>
-    <td><a href="https://www.twitch.tv/pethersonzada" target="_blank"><img src="https://static.twitchcdn.net/assets/favicon-32-d6025c14e900565d6177.png" width="40" height="40"></a></td>
-    <td><a href="https://wa.me/91976404/?text=Olá!+Vim+pelo+perfil+do+GitHub" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" height="40"></a></td>
-</tr>
-</table>
 
 
 
