@@ -34,7 +34,7 @@
 <h3 align='center'>Minhas Tecnologias e Ferramentas</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pethersonzada&locale=pt-br&hide_title=true&layout=compact&card_width=400&langs_count=10&theme=gotham&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pethersonzada&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
 <br clear="both">
