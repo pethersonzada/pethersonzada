@@ -31,11 +31,11 @@
 
 <h2></h2>
 
-<h3 align='center'>Minhas Tecnologias e Ferramentas</h3>
+<h2 align='center'>Minhas Tecnologias e Ferramentas</h2>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pethersonzada&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false" height="250" alt="languages graph"  />
-</div>
+</div> -->
 
 <br clear="both">
 
