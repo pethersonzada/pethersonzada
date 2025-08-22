@@ -3,15 +3,15 @@
 <h3 align="center">👩‍💻  Descubra mais sobre mim!</h3>
 
 <p align="left">
-  🔭 Atualmente, estou estudando Análise e Desenvolvimento de Sistemas.<br>
-  
-  📚 No momento, estou aprimorando minhas habilidades em Python, SQL e análise de dados.<br>
-  
-  📊 Trabalho com Python para análise de dados e automação, utilizando pandas, numpy e SQL. Também tenho conhecimentos em desenvolvimento web com JavaScript, HTML e CSS.<br>
-  
-  ⚡ Busco constantemente criar soluções eficientes e inovadoras, aplicando tecnologia para resolver problemas do mundo real.<br>
-  
-  🎮 Sou um grande fã da franquia Half-Life, Portal, Left 4 Dead e Counter-Strike – jogos incríveis e maravilhosos (platinei os que pude!).
+🔭 Atualmente, curso Análise e Desenvolvimento de Sistemas, com foco em expandir minha atuação na área de tecnologia.
+
+📚 Estou aprimorando minhas habilidades em Python, SQL e análise de dados, sempre em busca de aprofundar conhecimentos e aplicá-los em projetos práticos.
+
+📊 Tenho experiência em análise de dados, automação com Python e visualização de informações, utilizando bibliotecas como pandas, numpy e plotly, além de consultas e modelagem em SQL.
+
+⚡ Meu objetivo é desenvolver soluções eficientes, criativas e inovadoras, aplicando tecnologia para resolver desafios do mundo real.
+
+🎮 Fora da área técnica, sou apaixonado por games, especialmente a franquia Half-Life, Portal, Left 4 Dead e Counter-Strike.
 </p>
 
 <h2></h2>
