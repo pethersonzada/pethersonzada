@@ -3,15 +3,13 @@
 <h3 align="center">Descubra mais sobre mim!</h3>
 
 <p align="left">
+
 🔭 Atualmente, curso Análise e Desenvolvimento de Sistemas, com foco em expandir minha atuação na área de tecnologia.
 
 📚 Estou aprimorando minhas habilidades em Python, SQL e análise de dados, sempre em busca de aprofundar conhecimentos e aplicá-los em projetos práticos.
 
 📊 Tenho experiência em análise de dados, automação com Python e visualização de informações, utilizando bibliotecas como pandas, numpy e plotly, além de consultas e modelagem em SQL.
 
-⚡ Meu objetivo é desenvolver soluções eficientes, criativas e inovadoras, aplicando tecnologia para resolver desafios do mundo real.
-
-🎮 Fora da área técnica, sou apaixonado por games, especialmente a franquia Half-Life, Portal, Left 4 Dead e Counter-Strike.
 </p>
 
 <h2></h2>
