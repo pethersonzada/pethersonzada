@@ -1,4 +1,4 @@
-<h2 align="center">👋 Olá, eu sou o Petherson! 💻 Estudante de tecnologia, aprimorando minhas habilidades em Python e Análise de Dados! 🚀</h2>
+<h2 align="center">👋 Olá, eu me chamo Petherson!E sou estudante de tecnologia 💻</h2>
 
 <h3 align="center">👩‍💻  Descubra mais sobre mim!</h3>
 
