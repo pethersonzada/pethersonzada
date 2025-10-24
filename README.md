@@ -1,6 +1,6 @@
-<h2 align="center">👋 Olá, eu me chamo Petherson! E sou estudante de tecnologia 💻</h2>
+<h2 align="center">👋 Olá, eu me chamo Petherson!</h2>
 
-<h3 align="center">👩‍💻  Descubra mais sobre mim!</h3>
+<h3 align="center">Descubra mais sobre mim!</h3>
 
 <p align="left">
 🔭 Atualmente, curso Análise e Desenvolvimento de Sistemas, com foco em expandir minha atuação na área de tecnologia.
