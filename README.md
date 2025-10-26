@@ -22,7 +22,7 @@
     <td><a href="https://www.youtube.com/@pethersonzada" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" height="40"></a></td>
     <td><a href="https://www.instagram.com/pethersonzada/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="40"></a></td>
     <td><a href="mailto:pethersonzada@gmail.com" target="_blank"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="48"></a></td>
-    <td><a href="https://www.twitch.tv/pethersonzada" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/e9b60076c672159b441c7054f765635a5a30683a/topics/twitch/twitch.png" width="40"></a></td>
+    <!-- <td><a href="https://www.twitch.tv/pethersonzada" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/e9b60076c672159b441c7054f765635a5a30683a/topics/twitch/twitch.png" width="40"></a></td> -->
     <td><a href="https://wa.me/91976404/?text=Olá!+Vim+pelo+perfil+do+GitHub" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" height="40"></a></td>
   </tr>
 </table>
