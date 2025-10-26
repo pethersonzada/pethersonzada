@@ -19,11 +19,11 @@
 <table align="center">
   <tr>
     <td><a href="https://www.linkedin.com/in/pethersonzada/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="40"></a></td>
-    <td><a href="https://www.youtube.com/@pethersonzada" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" height="40"></a></td>
+    <td><a href="https://www.youtube.com/@pethersonzada" target="_blank"><img src="https://user-images.githubusercontent.com/47686437/168548113-b3cd4206-3281-445b-b7c6-bc0a3251293d.png" width="48" height="48"></a></td>
     <td><a href="https://www.instagram.com/pethersonzada/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="40"></a></td>
     <td><a href="mailto:pethersonzada@gmail.com" target="_blank"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="48"></a></td>
     <!-- <td><a href="https://www.twitch.tv/pethersonzada" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/e9b60076c672159b441c7054f765635a5a30683a/topics/twitch/twitch.png" width="40"></a></td> -->
-    <td><a href="https://wa.me/91976404/?text=Olá!+Vim+pelo+perfil+do+GitHub" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" height="40"></a></td>
+    <td><a href="https://wa.me/91976404/?text=Olá!+Vim+pelo+perfil+do+GitHub" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp" width="48" height="40"></a></td>
   </tr>
 </table>
 
@@ -61,9 +61,9 @@
   <tr>
     <td align="center">
       <h3>📊 Ferramentas</h3>
-      <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" height="40" alt="Power BI" />
+      <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" height="40" alt="Power BI" />
       <img src="https://skillicons.dev/icons?i=mysql" height="40" />
-      <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/word.png" height="40" />
+      <img src="https://img.icons8.com/?size=100&id=117563&format=png&color=000000" height="43" />
       <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" height="40" alt="Excel" />
       <img src="https://skillicons.dev/icons?i=git" height="40" />
       <img src="https://skillicons.dev/icons?i=github" height="40" />
