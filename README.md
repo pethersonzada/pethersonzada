@@ -44,6 +44,7 @@
       <img src="https://skillicons.dev/icons?i=html" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" />
       <img src="https://skillicons.dev/icons?i=js,py,java" height="40" />
+      <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" />
     </td>
     <td align="center" width="50%">
