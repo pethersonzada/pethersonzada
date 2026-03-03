@@ -40,23 +40,24 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>🚀 Tecnologias de Desenvolvimento Web e Programação</h3>
+      <h3>🚀 Tecnologias de Desenvolvimento de Aplicações</h3>
       <img src="https://skillicons.dev/icons?i=html" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" />
       <img src="https://skillicons.dev/icons?i=js,py,java" height="40" />
       <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" height="40"/>
     </td>
     <td align="center" width="50%">
       <h3>📚 Bibliotecas e Frameworks para IA & Dados</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
-      <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" />
-      <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" />
       <img src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4" height="40" />
       <img src="https://avatars.githubusercontent.com/u/15658638?s=48&v=4" height="40" />
       <img src="https://avatars.githubusercontent.com/u/365630?s=48&v=4" height="40" />
+      <img src="https://viz.mediapipe.dev/logo.png" height="40"/>
     </td>
   </tr>
   <tr>
@@ -68,13 +69,16 @@
       <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" height="40" alt="Excel" />
       <img src="https://skillicons.dev/icons?i=git" height="40" />
       <img src="https://skillicons.dev/icons?i=github" height="40" />
+      <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" />
+      <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/1280px-Android_Studio_Logo_%282023%29.svg.png" height="40"/>
     </td>
  
   </td>
     
   <td align="center">
       <h3>🎨 Design e Edição</h3>
-      <img src="https://skillicons.dev/icons?i=ps,ai" height="40" />
+      <img src="https://skillicons.dev/icons?i=ps,ai,pr" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" height="40"/>
       <img src="https://skillicons.dev/icons?i=figma" height="40" />
     </td>
