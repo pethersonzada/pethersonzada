@@ -47,7 +47,7 @@
       <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" height="40"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" height="40"/>
     </td>
     <td align="center" width="50%">
       <h3>📚 Bibliotecas e Frameworks para IA & Dados</h3>
@@ -69,6 +69,7 @@
       <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" height="40" alt="Excel" />
       <img src="https://skillicons.dev/icons?i=git" height="40" />
       <img src="https://skillicons.dev/icons?i=github" height="40" />
+      <img src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" height="40"/>
       <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" />
       <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/1280px-Android_Studio_Logo_%282023%29.svg.png" height="40"/>
