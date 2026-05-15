@@ -64,7 +64,7 @@
     <td align="center">
       <h3>📊 Ferramentas</h3>
       <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" height="40" alt="Power BI" />
-      <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+      <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" height="40" />
       <img src="https://img.icons8.com/?size=100&id=117563&format=png&color=000000" height="43" />
       <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" height="40" alt="Excel" />
       <img src="https://skillicons.dev/icons?i=git" height="40" />
@@ -73,6 +73,7 @@
       <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" />
       <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/1280px-Android_Studio_Logo_%282023%29.svg.png" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" height="40"/>
     </td>
  
   </td>
