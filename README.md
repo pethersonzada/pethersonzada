@@ -1,33 +1,23 @@
-<h2 align="center">👋 Olá, eu me chamo Petherson!</h2>
+<h2 align="center">👋 Olá, eu sou o Petherson!</h2>
 
-<h3 align="center">Descubra mais sobre mim!</h3>
+<h3 align="center">Desenvolvedor Full-Stack, Dados e Infraestrutura</h3>
 
-
-<p align="left">
-
-🔭 Atualmente, curso Análise e Desenvolvimento de Sistemas, com foco em expandir minha atuação na área de tecnologia.
-
-📚 Estou aprimorando minhas habilidades em Python, SQL e análise de dados, sempre em busca de aprofundar conhecimentos e aplicá-los em projetos práticos.
-
-📊 Tenho experiência em análise de dados, automação com Python e visualização de informações, utilizando bibliotecas como pandas, numpy e plotly, além de consultas e modelagem em SQL.
-
-📌 Veja mais sobre mim no meu site! https://petherson-dev.vercel.app/
+<p align="center">
+  🔭 Focado em engenharia de software, arquitetura de sistemas e soluções baseadas em dados.<br>
+  📌 Acesse o meu portfólio oficial: <a href="https://petherson-dev.vercel.app/" target="_blank">petherson-dev.vercel.app</a>
 </p>
 
 <h2></h2>
 
-<h3 align="center">Entre em contato comigo!</h3>
-
-<table align="center">
-  <tr>
-    <td><a href="https://www.linkedin.com/in/pethersonzada/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="40"></a></td>
-    <td><a href="https://www.youtube.com/@pethersonzada" target="_blank"><img src="https://user-images.githubusercontent.com/47686437/168548113-b3cd4206-3281-445b-b7c6-bc0a3251293d.png" width="48" height="48"></a></td>
-    <td><a href="https://www.instagram.com/pethersonzada/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="40"></a></td>
-    <td><a href="mailto:pethersonzada@gmail.com" target="_blank"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="48"></a></td>
-    <!-- <td><a href="https://www.twitch.tv/pethersonzada" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/e9b60076c672159b441c7054f765635a5a30683a/topics/twitch/twitch.png" width="40"></a></td> -->
-    <td><a href="https://wa.me/91976404/?text=Olá!+Vim+pelo+perfil+do+GitHub" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp" width="48" height="40"></a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pethersonzada/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" height="40"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/pethersonzada" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" height="40"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:pethersonzada@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" height="40"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/pethersonzada/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="40" height="40"></a>
+</p>
 
 <h2></h2>
 
