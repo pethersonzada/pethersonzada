@@ -2,6 +2,7 @@
 
 <h3 align="center">Descubra mais sobre mim!</h3>
 
+
 <p align="left">
 
 🔭 Atualmente, curso Análise e Desenvolvimento de Sistemas, com foco em expandir minha atuação na área de tecnologia.
@@ -10,6 +11,7 @@
 
 📊 Tenho experiência em análise de dados, automação com Python e visualização de informações, utilizando bibliotecas como pandas, numpy e plotly, além de consultas e modelagem em SQL.
 
+📌 Veja mais sobre mim no meu site! https://petherson-dev.vercel.app/
 </p>
 
 <h2></h2>
