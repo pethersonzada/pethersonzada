@@ -3,8 +3,8 @@
 <h3 align="center">Desenvolvedor Full-Stack, Dados e Infraestrutura</h3>
 
 <p align="center">
-  🔭 Focado em engenharia de software, arquitetura de sistemas e soluções baseadas em dados.<br>
-  📌 Acesse o meu portfólio oficial: <a href="https://petherson-dev.vercel.app/" target="_blank">petherson-dev.vercel.app</a>
+  Focado em engenharia de software, arquitetura de sistemas e soluções baseadas em dados.<br>
+  Acesse o meu portfólio oficial: <a href="https://petherson-dev.vercel.app/" target="_blank">petherson-dev.vercel.app</a>
 </p>
 
 <h2></h2>
