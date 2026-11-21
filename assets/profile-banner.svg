@@ -29,9 +29,6 @@
     <text x="61" y="163" font-family="Arial, Helvetica, sans-serif" font-size="78" letter-spacing="-3" font-weight="800" fill="#F4F8FF">Petherson<tspan fill="#75C9EF">.</tspan></text>
     <text x="64" y="209" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="500" fill="#D1DEF1">Desenvolvedor Full Stack</text>
     <text x="64" y="249" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#94A9C4">Da interface à infraestrutura.</text>
-    <rect x="64" y="282" width="210" height="30" rx="15" fill="#172F42" stroke="#31586F"/>
-    <circle cx="83" cy="297" r="4" fill="#56D8B5"/>
-    <text x="95" y="302" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" fill="#B9D9E5">Construindo o BeVans</text>
     <rect x="806" y="62" width="324" height="222" rx="16" fill="#0C1728" stroke="#35506D" stroke-opacity=".85"/>
     <path d="M807 103H1129" stroke="#35506D" stroke-opacity=".8"/>
     <circle cx="831" cy="83" r="5" fill="#F17B86"/>
