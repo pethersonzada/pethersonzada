@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="170" viewBox="0 0 480 170" role="img" aria-label="Análise de Cancelamentos: Inteligência de dados">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#111E2E"/><stop offset="100%" stop-color="#0D1725"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="478" height="168" rx="18" fill="url(#bg)" stroke="#2A435B" stroke-width="2"/>
+<rect x="1" y="30" width="5" height="110" rx="2.5" fill="#91AAFF"/>
+<rect x="17" y="31" width="88" height="88" rx="19" fill="#193049" stroke="#365776"/>
+<g transform="translate(24 40) scale(.82)"><g stroke="#91AAFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M20 21v52h60"/><path d="M30 62V49h10v13M46 62V34h10v28M62 62V43h10v19"/><path d="M29 33l18-12 19 8 10-11"/></g></g>
+<text x="117" y="65" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#F2F7FE">Análise de Cancelamentos</text>
+<text x="117" y="94" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#ACC1D9">Inteligência de dados</text>
+<text x="117" y="137" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#91AAFF">Pandas   •   Plotly</text>
+<path d="M433 37h17v17M433 54l17-17" stroke="#91AAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
