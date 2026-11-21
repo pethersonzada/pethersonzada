@@ -17,23 +17,23 @@
 ### Projetos
 
 <p>
-  <a href="https://github.com/pethersonzada/bevans-frontend"><img src="./assets/project-bevans.svg" width="30" alt="Ícone do BeVans" /></a>
-  &nbsp; <strong>BeVans</strong> &nbsp; <sub><a href="https://github.com/pethersonzada/bevans-frontend">Mobile</a> · <a href="https://github.com/pethersonzada/bevans-backend">Backend</a> · <a href="https://github.com/pethersonzada/bevans-webapp">WebApp</a></sub>
+  <a href="https://github.com/pethersonzada/bevans-frontend"><img src="./assets/icon-bevans-v2.svg" width="32" height="32" align="center" alt="Ícone do BeVans" /></a>
+  &nbsp; <strong><a href="https://github.com/pethersonzada/bevans-frontend">BeVans</a></strong> &nbsp; <sub><a href="https://github.com/pethersonzada/bevans-frontend">Mobile</a> · <a href="https://github.com/pethersonzada/bevans-backend">Backend</a> · <a href="https://github.com/pethersonzada/bevans-webapp">WebApp</a></sub>
 </p>
 <p>
-  <a href="https://github.com/pethersonzada/rafaela-makeup"><img src="./assets/project-rafaela.svg" width="30" alt="Ícone Rafaela Makeup" /></a>
+  <a href="https://github.com/pethersonzada/rafaela-makeup"><img src="./assets/icon-rafaela-v2.svg" width="32" height="32" align="center" alt="Ícone Rafaela Makeup" /></a>
   &nbsp; <strong><a href="https://github.com/pethersonzada/rafaela-makeup">Rafaela Makeup</a></strong> &nbsp; <sub>Next.js · TypeScript</sub>
 </p>
 <p>
-  <a href="https://github.com/pethersonzada/face-capture"><img src="./assets/project-face.svg" width="30" alt="Ícone Face Capture" /></a>
+  <a href="https://github.com/pethersonzada/face-capture"><img src="./assets/icon-face-v2.svg" width="32" height="32" align="center" alt="Ícone Face Capture" /></a>
   &nbsp; <strong><a href="https://github.com/pethersonzada/face-capture">Face Capture</a></strong> &nbsp; <sub>Python · OpenCV</sub>
 </p>
 <p>
-  <a href="https://github.com/pethersonzada/oci-instance-hunter"><img src="./assets/project-oci.svg" width="30" alt="Ícone OCI Instance Hunter" /></a>
+  <a href="https://github.com/pethersonzada/oci-instance-hunter"><img src="./assets/icon-oci-v2.svg" width="32" height="32" align="center" alt="Ícone OCI Instance Hunter" /></a>
   &nbsp; <strong><a href="https://github.com/pethersonzada/oci-instance-hunter">OCI Instance Hunter</a></strong> &nbsp; <sub>Python · GitHub Actions</sub>
 </p>
 <p>
-  <a href="https://github.com/pethersonzada/client-data-analysis"><img src="./assets/project-churn.svg" width="30" alt="Ícone Análise de Cancelamentos" /></a>
+  <a href="https://github.com/pethersonzada/client-data-analysis"><img src="./assets/icon-data-v2.svg" width="32" height="32" align="center" alt="Ícone Análise de Cancelamentos" /></a>
   &nbsp; <strong><a href="https://github.com/pethersonzada/client-data-analysis">Análise de Cancelamentos</a></strong> &nbsp; <sub>Pandas · Plotly</sub>
 </p>
 
