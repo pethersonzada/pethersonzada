@@ -29,13 +29,16 @@
   <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40" height="40" alt="Java" title="Java" />
   <img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" height="40" alt="React e React Native" title="React e React Native" />
   <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="40" height="40" alt="Next.js" title="Next.js" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="40" height="40" alt="Spring Boot" title="Spring Boot" />
   <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="40" height="40" alt="Firebase" title="Firebase" />
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40" height="40" alt="Docker" title="Docker" />
-  <img src="./assets/tech-expo-visible-v1.svg" width="100" height="42" alt="Expo" title="Expo" />
-  <img src="./assets/tech-mapbox-visible-v1.svg" width="119" height="42" alt="Mapbox" title="Mapbox" />
+  <img src="./assets/tech-expo-square-v2.svg" width="40" height="40" alt="Expo" title="Expo" />
+  <img src="./assets/tech-mapbox-square-v2.svg" width="40" height="40" alt="Mapbox" title="Mapbox" />
 </p>
 
 ### IA, dados e visão computacional
@@ -62,12 +65,15 @@
   <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" height="40" alt="GitHub" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="40" height="40" alt="Postman" title="Postman" />
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40" height="40" alt="Linux" title="Linux" />
+</p>
+
+<p align="center">
   <img src="https://cdn.simpleicons.org/jupyter/F37626" width="40" height="40" alt="Jupyter" title="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="Anaconda" title="Anaconda" />
   <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="40" height="40" alt="Android Studio" title="Android Studio" />
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" width="40" height="40" alt="Cisco Packet Tracer" title="Cisco Packet Tracer" />
   <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" />
-  <img src="./assets/tech-oracle-cloud-visible-v1.svg" width="149" height="42" alt="Oracle Cloud" title="Oracle Cloud" />
+  <img src="./assets/tech-oracle-square-v2.svg" width="40" height="40" alt="Oracle Cloud" title="Oracle Cloud" />
 </p>
 
 ### Design e edição
