@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Petherson - Desenvolvedor Full Stack">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1221"/>
+      <stop offset="58%" stop-color="#101E31"/>
+      <stop offset="100%" stop-color="#0B1526"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#51C5EF"/>
+      <stop offset="100%" stop-color="#A08DFF"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#4775EA" stop-opacity=".27"/>
+      <stop offset="100%" stop-color="#4775EA" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#A5BCD7" opacity=".13"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1200" height="340" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#dots)"/>
+    <circle cx="945" cy="140" r="320" fill="url(#glow)"/>
+    <circle cx="1130" cy="24" r="160" fill="none" stroke="#6E87AC" stroke-opacity=".14"/>
+    <circle cx="1130" cy="24" r="220" fill="none" stroke="#6E87AC" stroke-opacity=".1"/>
+    <rect x="62" y="50" width="42" height="4" rx="2" fill="url(#accent)"/>
+    <text x="119" y="57" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="4" font-weight="700" fill="#80BFE7">DEVELOPER PORTFOLIO</text>
+    <text x="61" y="163" font-family="Arial, Helvetica, sans-serif" font-size="78" letter-spacing="-3" font-weight="800" fill="#F4F8FF">Petherson<tspan fill="#75C9EF">.</tspan></text>
+    <text x="64" y="209" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="500" fill="#D1DEF1">Desenvolvedor Full Stack</text>
+    <text x="64" y="249" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#94A9C4">Da interface à infraestrutura.</text>
+    <rect x="64" y="282" width="210" height="30" rx="15" fill="#172F42" stroke="#31586F"/>
+    <circle cx="83" cy="297" r="4" fill="#56D8B5"/>
+    <text x="95" y="302" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" fill="#B9D9E5">Construindo o BeVans</text>
+    <rect x="806" y="62" width="324" height="222" rx="16" fill="#0C1728" stroke="#35506D" stroke-opacity=".85"/>
+    <path d="M807 103H1129" stroke="#35506D" stroke-opacity=".8"/>
+    <circle cx="831" cy="83" r="5" fill="#F17B86"/>
+    <circle cx="848" cy="83" r="5" fill="#E8C26B"/>
+    <circle cx="865" cy="83" r="5" fill="#69CBA6"/>
+    <text x="1082" y="88" font-family="monospace" font-size="12" fill="#7089A7">p.dev</text>
+    <text x="838" y="144" font-family="monospace" font-size="16" fill="#6CC6EE">const</text>
+    <text x="894" y="144" font-family="monospace" font-size="16" fill="#DCE9F8">focus = {</text>
+    <text x="861" y="175" font-family="monospace" font-size="15" fill="#A4B7CD">web: </text>
+    <text x="915" y="175" font-family="monospace" font-size="15" fill="#D1B6FF">'React'</text>
+    <text x="861" y="204" font-family="monospace" font-size="15" fill="#A4B7CD">api: </text>
+    <text x="915" y="204" font-family="monospace" font-size="15" fill="#D1B6FF">'Spring'</text>
+    <text x="861" y="233" font-family="monospace" font-size="15" fill="#A4B7CD">data: </text>
+    <text x="924" y="233" font-family="monospace" font-size="15" fill="#D1B6FF">'Python'</text>
+    <text x="838" y="260" font-family="monospace" font-size="16" fill="#DCE9F8">};</text>
+    <path d="M0 338H1200" stroke="url(#accent)" stroke-width="3"/>
+  </g>
+</svg>
