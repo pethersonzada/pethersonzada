@@ -34,8 +34,8 @@
   <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="40" height="40" alt="Firebase" title="Firebase" />
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40" height="40" alt="Docker" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="40" height="40" alt="Expo" title="Expo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mapbox/mapbox-original.svg" width="40" height="40" alt="Mapbox" title="Mapbox" />
+  <img src="./assets/tech-expo-visible-v1.svg" width="100" height="42" alt="Expo" title="Expo" />
+  <img src="./assets/tech-mapbox-visible-v1.svg" width="119" height="42" alt="Mapbox" title="Mapbox" />
 </p>
 
 ### IA, dados e visão computacional
@@ -67,7 +67,7 @@
   <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="40" height="40" alt="Android Studio" title="Android Studio" />
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" width="40" height="40" alt="Cisco Packet Tracer" title="Cisco Packet Tracer" />
   <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle Cloud" title="Oracle Cloud" />
+  <img src="./assets/tech-oracle-cloud-visible-v1.svg" width="149" height="42" alt="Oracle Cloud" title="Oracle Cloud" />
 </p>
 
 ### Design e edição
