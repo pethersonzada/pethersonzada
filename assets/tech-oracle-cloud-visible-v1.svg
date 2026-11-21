@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="149" height="42" viewBox="0 0 149 42" role="img" aria-label="Oracle Cloud">
+<rect x="0.75" y="0.75" width="147.5" height="40.5" rx="9" fill="#25384C" stroke="#486178" stroke-width="1.5"/>
+<path d="M17 13h15a8 8 0 0 1 0 16H17a8 8 0 0 1 0-16zm1 5a3 3 0 1 0 0 6h13a3 3 0 1 0 0-6z" fill="#FF7867" fill-rule="evenodd"/>
+<text x="45" y="26" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#F3F7FF">Oracle Cloud</text>
+</svg>
