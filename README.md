@@ -1,102 +1,82 @@
-<h2 align="center">👋 Olá, eu sou o Petherson!</h2>
+<div align="center">
+  <h1>Olá, eu sou o Petherson 👋</h1>
+  <h3>Desenvolvimento Full-Stack • Mobile • APIs • Dados & Automação</h3>
 
-<h3 align="center">Desenvolvedor Full-Stack, Dados e Infraestrutura</h3>
+  <p>
+    Estudante de Análise e Desenvolvimento de Sistemas.<br/>
+    Desenvolvo produtos e projetos que conectam interfaces, regras de negócio, bancos de dados e infraestrutura.
+  </p>
 
-<p align="center">
-  Focado em engenharia de software, arquitetura de sistemas e soluções baseadas em dados.<br>
-  Acesse o meu portfólio oficial: <a href="https://petherson-dev.vercel.app/" target="_blank">petherson-dev.vercel.app</a>
-</p>
+  <a href="https://petherson-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-Visitar-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
+  <a href="https://www.linkedin.com/in/pethersonzada/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:pethersonzada@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail"/></a>
+</div>
 
-<h2></h2>
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pethersonzada/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" height="40"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/pethersonzada" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" height="40"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:pethersonzada@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" height="40"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/pethersonzada/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="40" height="40"></a>
-</p>
+### O que você vai encontrar por aqui
 
-<h2></h2>
+- **Produtos ponta a ponta:** aplicativos mobile, interfaces web, APIs REST, autenticação e persistência de dados.
+- **Automação e IA:** scripts em Python, workflows, análise de dados e experimentos com aprendizado de máquina e visão computacional.
+- **Fundamentos de engenharia:** modelagem de bancos de dados, redes, documentação e projetos acadêmicos aplicados.
 
-<h2 align='center'>Minhas Tecnologias e Ferramentas</h2>
+Meu foco atual é o **BeVans**, um ecossistema em desenvolvimento para organização de transporte por van, com aplicações mobile e web e um backend próprio.
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pethersonzada&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false" height="250" alt="languages graph"  />
-</div> -->
+### Projeto em destaque: BeVans
 
-<br clear="both">
+**Gestão de transporte escolar e universitário**, com fluxos para motoristas e passageiros, confirmação de presença, planejamento de rotas e acompanhamento da viagem.
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🚀 Desenvolvimento de Aplicações</h3>
+| Parte do ecossistema | Tecnologias e responsabilidades |
+| :--- | :--- |
+| 📱 [**Aplicativo mobile**](https://github.com/pethersonzada/bevans-frontend) | React Native, Expo, TypeScript, Firebase Authentication e Mapbox. Experiência de motoristas e passageiros. |
+| ⚙️ [**API e backend**](https://github.com/pethersonzada/bevans-backend) | Java, Spring Boot, PostgreSQL e autenticação com tokens Firebase. Regras de negócio, vínculos, rotas e viagens. |
+| 🌐 [**Site e painel web**](https://github.com/pethersonzada/bevans-webapp) | Next.js, React e Tailwind CSS. Site institucional, login e módulos operacionais integrados à API. |
+| 🤖 [**Laboratório de agente com IA**](https://github.com/pethersonzada/bevans-agente) | Estudos com LLMs, embeddings e busca vetorial, separados do produto principal. |
 
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="45" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" height="40" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" alt="React" />
-  <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" height="40" alt="Next.js" />
-  <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" height="40" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="SQL Database" />
-</td>
+> **Estado:** projeto em evolução. O cadastro público do webapp está fechado, e o painel web ainda não cobre todos os fluxos do aplicativo mobile.
 
-<td align="center" width="50%">
-  <h3>📚 IA, Dados e Visão Computacional</h3>
+### Outros projetos que mostram meu trabalho
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
-  <img src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4" height="40" alt="Ultralytics YOLO" />
-  <img src="https://avatars.githubusercontent.com/u/15658638?s=48&v=4" height="40" alt="Keras" />
-  <img src="https://avatars.githubusercontent.com/u/365630?s=48&v=4" height="40" alt="TensorFlow" />
-  <img src="https://viz.mediapipe.dev/logo.png" height="40" alt="MediaPipe" />
-</td>
+| Projeto | O que demonstra | Tecnologias |
+| :--- | :--- | :--- |
+| [**Face Capture**](https://github.com/pethersonzada/face-capture) | Reconhecimento facial com abordagens de deep learning e classificação LBPH, pensado para controle de presença. | Python, OpenCV, MediaPipe |
+| [**Rafaela Makeup**](https://github.com/pethersonzada/rafaela-makeup) | Site de serviços com foco em experiência mobile, SEO, acessibilidade e conversão para contato via WhatsApp. | Next.js, React, TypeScript, Tailwind CSS |
+| [**OCI Instance Hunter**](https://github.com/pethersonzada/oci-instance-hunter) | Automação de tentativas de provisionamento de instâncias na Oracle Cloud, com execução agendada. | Python, OCI SDK, GitHub Actions |
+| [**Análise de Cancelamentos**](https://github.com/pethersonzada/client-data-analysis) | Tratamento, exploração e visualização de dados para investigar fatores associados ao churn de clientes. | Python, Pandas, Plotly |
+| [**Credit Score Predictor**](https://github.com/pethersonzada/credit-score-predictor-IA) | Preparação de dados, treinamento e comparação de classificadores para previsão de score. | Python, scikit-learn |
+| [**Marketplace Services**](https://github.com/pethersonzada/marketplace-services) | Interfaces e fluxos de busca, contratação e agendamento de serviços, com prototipação de UX/UI. | Frontend, Figma |
+| [**Rede Corporativa**](https://github.com/pethersonzada/rede-corporativa-infraestrutura) | Topologia corporativa segmentada, VLANs, VLSM, Wi-Fi e testes de conectividade. | Cisco Packet Tracer, Redes |
 
-  </tr>
+### Tecnologias presentes nos meus projetos
 
-  <tr>
-    <td align="center" width="50%">
-      <h3>🛠️ Ferramentas e Plataformas</h3>
+<div align="center">
+  <p><strong>Desenvolvimento</strong></p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,react,nextjs,tailwind,spring&perline=8" alt="TypeScript, JavaScript, Python, Java, React, Next.js, Tailwind CSS e Spring" />
+  <p><strong>Dados, serviços e ferramentas</strong></p>
+  <img src="https://skillicons.dev/icons?i=postgres,firebase,docker,git,github,figma&perline=6" alt="PostgreSQL, Firebase, Docker, Git, GitHub e Figma" />
+  <p>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  </p>
+</div>
 
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" height="40" alt="Power BI" />
-  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" height="40" alt="PostgreSQL" />
-  <img src="https://img.icons8.com/?size=100&id=117563&format=png&color=000000" height="43" alt="Microsoft Word" />
-  <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" height="40" alt="Microsoft Excel" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  <img src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" height="40" alt="Expo Go" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="Anaconda" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="Jupyter Notebook" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/1280px-Android_Studio_Logo_%282023%29.svg.png" height="40" alt="Android Studio" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" height="40" alt="Cisco Packet Tracer" />
-  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-  <img src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" width="40" height="40" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
-</td>
+<details>
+  <summary><strong>Explorar outros repositórios e estudos</strong></summary>
 
-<td align="center" width="50%">
-  <h3>🎨 Design e Edição</h3>
+  **Dados e automação:** [Dashboard Comercial](https://github.com/pethersonzada/dashboard-comercial) · [Learning Pandas](https://github.com/pethersonzada/learning-pandas) · [Automação de Formulários](https://github.com/pethersonzada/py-auto-entry) · [Gerador de PDFs](https://github.com/pethersonzada/pdf-sales-generator) · [Render Ping](https://github.com/pethersonzada/render-ping)
 
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Illustrator" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" height="40" alt="GIMP" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
-</td>
+  **Interfaces e design:** [Valve Game Hub](https://github.com/pethersonzada/valve-game-hub) · [Vought Connect](https://github.com/pethersonzada/vought-connect) · [MFC Streaming Concept](https://github.com/pethersonzada/mfc-streaming-concept) · [Aula Prática Next.js](https://github.com/pethersonzada/aula-pratica-nextjs) · [Código do meu portfólio](https://github.com/pethersonzada/petherson-dev)
 
-  </tr>
-</table>
+  **Backend e fundamentos:** [Sistema de Biblioteca Virtual](https://github.com/pethersonzada/sistema-biblioteca-virtual) · [Spring Endpoint](https://github.com/pethersonzada/spring-endpoint) · [Exercícios de POO](https://github.com/pethersonzada/listas-POO)
+</details>
 
+---
 
-
-
-
-
-
-
+<div align="center">
+  <strong>Quer conhecer o código ou conversar sobre um projeto?</strong><br/>
+  <a href="https://github.com/pethersonzada?tab=repositories">Explore meus repositórios</a> •
+  <a href="https://petherson-dev.vercel.app/">Veja meu portfólio</a> •
+  <a href="mailto:pethersonzada@gmail.com">Entre em contato</a>
+</div>
