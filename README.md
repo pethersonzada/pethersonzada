@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/profile-banner-clean-v3.svg" width="100%" alt="Petherson | Desenvolvedor Full Stack" />
 
-  <br/><br/>
+  <h3>Onde me encontrar</h3>
 
   <a href="https://petherson-dev.vercel.app/" title="Portfólio"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="38" alt="Portfólio" title="Portfólio" /></a>
   &nbsp;&nbsp;
