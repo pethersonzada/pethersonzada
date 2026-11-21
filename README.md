@@ -16,9 +16,9 @@
 
 <br/>
 
-## Tecnologias e ferramentas
+<h2 align="center">Tecnologias e ferramentas</h2>
 
-### Desenvolvimento de aplicações
+<h3 align="center">Desenvolvimento de aplicações</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" height="40" alt="HTML5" title="HTML5" />
@@ -41,7 +41,7 @@
   <img src="./assets/tech-mapbox-square-v2.svg" width="40" height="40" alt="Mapbox" title="Mapbox" />
 </p>
 
-### IA, dados e visão computacional
+<h3 align="center">IA, dados e visão computacional</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" title="Pandas" />
@@ -55,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="40" height="40" alt="Plotly" title="Plotly" />
 </p>
 
-### Ferramentas e plataformas
+<h3 align="center">Ferramentas e plataformas</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="40" height="40" alt="Power BI" title="Power BI" />
@@ -76,7 +76,7 @@
   <img src="./assets/tech-oracle-square-v2.svg" width="40" height="40" alt="Oracle Cloud" title="Oracle Cloud" />
 </p>
 
-### Design e edição
+<h3 align="center">Design e edição</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ps&theme=dark" width="40" height="40" alt="Photoshop" title="Photoshop" />
