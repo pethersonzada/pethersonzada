@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="170" viewBox="0 0 480 170" role="img" aria-label="OCI Instance Hunter: Automação em cloud">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#111E2E"/><stop offset="100%" stop-color="#0D1725"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="478" height="168" rx="18" fill="url(#bg)" stroke="#2A435B" stroke-width="2"/>
+<rect x="1" y="30" width="5" height="110" rx="2.5" fill="#F3B67A"/>
+<rect x="17" y="31" width="88" height="88" rx="19" fill="#193049" stroke="#365776"/>
+<g transform="translate(24 40) scale(.82)"><g stroke="#F3B67A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M25 58h45q10 0 10-10 0-9-11-11-4-19-23-17-16 1-19 17-11 0-11 11 0 10 9 10z"/><path d="M39 70h25M46 78h11"/></g></g>
+<text x="117" y="65" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#F2F7FE">OCI Instance Hunter</text>
+<text x="117" y="94" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#ACC1D9">Automação em cloud</text>
+<text x="117" y="137" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#F3B67A">Python   •   GitHub Actions</text>
+<path d="M433 37h17v17M433 54l17-17" stroke="#F3B67A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
