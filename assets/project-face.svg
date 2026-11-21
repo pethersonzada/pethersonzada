@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="170" viewBox="0 0 480 170" role="img" aria-label="Face Capture: Visão computacional">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#111E2E"/><stop offset="100%" stop-color="#0D1725"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="478" height="168" rx="18" fill="url(#bg)" stroke="#2A435B" stroke-width="2"/>
+<rect x="1" y="30" width="5" height="110" rx="2.5" fill="#6CE2C8"/>
+<rect x="17" y="31" width="88" height="88" rx="19" fill="#193049" stroke="#365776"/>
+<g transform="translate(24 40) scale(.82)"><g stroke="#6CE2C8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M25 34v-9q0-7 7-7h8M56 18h8q7 0 7 7v9M25 57v7q0 7 7 7h8M56 71h8q7 0 7-7v-7"/><circle cx="42" cy="41" r="2"/><circle cx="56" cy="41" r="2"/><path d="M39 55q10 8 20 0"/></g></g>
+<text x="117" y="65" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#F2F7FE">Face Capture</text>
+<text x="117" y="94" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#ACC1D9">Visão computacional</text>
+<text x="117" y="137" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#6CE2C8">Python   •   OpenCV</text>
+<path d="M433 37h17v17M433 54l17-17" stroke="#6CE2C8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
