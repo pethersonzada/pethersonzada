@@ -18,114 +18,69 @@
 
 ## Tecnologias e ferramentas
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h3>Desenvolvimento de aplicações</h3>
-<img src="https://skillicons.dev/icons?i=html&theme=dark" height="38" alt="HTML5" title="HTML5" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=css&theme=dark" height="38" alt="CSS3" title="CSS3" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=js&theme=dark" height="38" alt="JavaScript" title="JavaScript" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" height="38" alt="TypeScript" title="TypeScript" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=py&theme=dark" height="38" alt="Python" title="Python" />
-<br/>
-<img src="https://skillicons.dev/icons?i=java&theme=dark" height="38" alt="Java" title="Java" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=react&theme=dark" height="38" alt="React e React Native" title="React e React Native" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="38" alt="Next.js" title="Next.js" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=spring&theme=dark" height="38" alt="Spring Boot" title="Spring Boot" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="38" alt="Tailwind CSS" title="Tailwind CSS" />
-<br/>
-<img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="38" alt="Firebase" title="Firebase" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="38" alt="PostgreSQL" title="PostgreSQL" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" height="38" alt="Docker" title="Docker" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/expo/FFFFFF" height="38" alt="Expo" title="Expo" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/mapbox/FFFFFF" height="38" alt="Mapbox" title="Mapbox" />
-<br/>
+### Desenvolvimento de aplicações
 
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h3>IA, dados e visão computacional</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="38" alt="Pandas" title="Pandas" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="38" alt="NumPy" title="NumPy" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="38" alt="OpenCV" title="OpenCV" />
-&nbsp;
-<img src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4" height="38" alt="Ultralytics YOLO" title="Ultralytics YOLO" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="38" alt="Keras" title="Keras" />
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="38" alt="TensorFlow" title="TensorFlow" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/mediapipe/00A8E8" height="38" alt="MediaPipe" title="MediaPipe" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="38" alt="scikit-learn" title="scikit-learn" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" height="38" alt="Plotly" title="Plotly" />
-&nbsp;
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" height="40" alt="HTML5" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" height="40" alt="CSS3" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" width="40" height="40" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40" height="40" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" height="40" alt="React e React Native" title="React e React Native" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="40" height="40" alt="Next.js" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="40" height="40" alt="Spring Boot" title="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="40" height="40" alt="Firebase" title="Firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40" height="40" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="40" height="40" alt="Expo" title="Expo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mapbox/mapbox-original.svg" width="40" height="40" alt="Mapbox" title="Mapbox" />
+</p>
 
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h3>Ferramentas e plataformas</h3>
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" height="38" alt="Power BI" title="Power BI" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" height="38" alt="Excel" title="Excel" />
-&nbsp;
-<img src="https://img.icons8.com/?size=100&id=117563&format=png&color=000000" height="38" alt="Word" title="Word" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=git&theme=dark" height="38" alt="Git" title="Git" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=github&theme=dark" height="38" alt="GitHub" title="GitHub" />
-<br/>
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" height="38" alt="Postman" title="Postman" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" height="38" alt="Linux" title="Linux" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/jupyter/F37626" height="38" alt="Jupyter" title="Jupyter" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="38" alt="Anaconda" title="Anaconda" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" height="38" alt="Android Studio" title="Android Studio" />
-<br/>
-<img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" height="38" alt="Cisco Packet Tracer" title="Cisco Packet Tracer" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="38" alt="GitHub Actions" title="GitHub Actions" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/oracle/F80000" height="38" alt="Oracle Cloud" title="Oracle Cloud" />
-&nbsp;
+### IA, dados e visão computacional
 
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h3>Design e edição</h3>
-<img src="https://skillicons.dev/icons?i=ps&theme=dark" height="38" alt="Photoshop" title="Photoshop" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=ai&theme=dark" height="38" alt="Illustrator" title="Illustrator" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=pr&theme=dark" height="38" alt="Premiere Pro" title="Premiere Pro" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" height="38" alt="GIMP" title="GIMP" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" height="38" alt="Figma" title="Figma" />
-<br/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV" title="OpenCV" />
+  <img src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4" width="40" height="40" alt="Ultralytics YOLO" title="Ultralytics YOLO" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="40" height="40" alt="Keras" title="Keras" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://cdn.simpleicons.org/mediapipe/00A8E8" width="40" height="40" alt="MediaPipe" title="MediaPipe" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn" title="scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="40" height="40" alt="Plotly" title="Plotly" />
+</p>
 
-    </td>
-  </tr>
-</table>
+### Ferramentas e plataformas
 
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="40" height="40" alt="Power BI" title="Power BI" />
+  <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" width="40" height="40" alt="Excel" title="Excel" />
+  <img src="https://img.icons8.com/?size=100&id=117563&format=png&color=000000" width="40" height="40" alt="Word" title="Word" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" height="40" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" height="40" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="40" height="40" alt="Postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40" height="40" alt="Linux" title="Linux" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="40" height="40" alt="Jupyter" title="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="Anaconda" title="Anaconda" />
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="40" height="40" alt="Android Studio" title="Android Studio" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" width="40" height="40" alt="Cisco Packet Tracer" title="Cisco Packet Tracer" />
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle Cloud" title="Oracle Cloud" />
+</p>
+
+### Design e edição
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps&theme=dark" width="40" height="40" alt="Photoshop" title="Photoshop" />
+  <img src="https://skillicons.dev/icons?i=ai&theme=dark" width="40" height="40" alt="Illustrator" title="Illustrator" />
+  <img src="https://skillicons.dev/icons?i=pr&theme=dark" width="40" height="40" alt="Premiere Pro" title="Premiere Pro" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="40" height="40" alt="GIMP" title="GIMP" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" height="40" alt="Figma" title="Figma" />
+</p>
+
+---
 
 ## Projetos em destaque
 
