@@ -94,7 +94,7 @@
   <a href="https://github.com/pethersonzada/bevans-frontend"><img src="./assets/icon-bevans-v2.svg" width="40" height="40" align="left" alt="BeVans" /></a>
   &nbsp;&nbsp; <strong><a href="https://github.com/pethersonzada/bevans-frontend">BeVans</a></strong>
   <br/>
-  &nbsp;&nbsp; <sub><a href="https://github.com/pethersonzada/bevans-frontend">Mobile</a> · <a href="https://github.com/pethersonzada/bevans-backend">Backend</a> · <a href="https://github.com/pethersonzada/bevans-webapp">WebApp</a></sub>
+  &nbsp;&nbsp; <sub><a href="https://github.com/pethersonzada/bevans-frontend">Mobile</a> · <a href="https://github.com/pethersonzada/bevans-backend">Backend</a> · <a href="https://github.com/pethersonzada/bevans-agente">Agente RAG</a> · <a href="https://github.com/pethersonzada/bevans-webapp">WebApp</a></sub>
 </p>
 <br clear="left" />
 
