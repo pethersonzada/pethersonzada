@@ -5,6 +5,8 @@
     Desenvolvedor Full Stack focado na construção de aplicações web e mobile escaláveis, APIs robustas e soluções aplicadas de Inteligência Artificial e Visão Computacional.
   </p>
 
+  <h3>Fale Comigo!</h3>
+
   <p>
     <a href="https://petherson-dev.vercel.app/" title="Portfólio"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="38" alt="Portfólio" /></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/pethersonzada/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="38" alt="LinkedIn" /></a>&nbsp;&nbsp;
@@ -14,11 +16,11 @@
   </p>
 </div>
 
---- 
-
-## Stack Tecnológica
+<hr/>
 
 <div align="center">
+  <h2>Stack Tecnológica</h2>
+
   <h4>Desenvolvimento Web, Mobile & Backend</h4>
   <p>
     <img src="https://skillicons.dev/icons?i=ts,js,py,java,react,nextjs,spring,tailwind&theme=dark" alt="Web e Backend" />
