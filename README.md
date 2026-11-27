@@ -6,23 +6,15 @@
   </p>
 
   <p>
-    <a href="https://petherson-dev.vercel.app/" title="Portfólio">
-      <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
-    </a>
-    <a href="https://www.linkedin.com/in/pethersonzada/" title="LinkedIn">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/pethersonzada" title="GitHub">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="mailto:pethersonzada@gmail.com" title="E-mail">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-    </a>
-    <a href="https://www.instagram.com/pethersonzada/" title="Instagram">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
+    <a href="https://petherson-dev.vercel.app/" title="Portfólio"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="38" alt="Portfólio" /></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/pethersonzada/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="38" alt="LinkedIn" /></a>&nbsp;&nbsp;
+    <a href="https://github.com/pethersonzada" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="38" alt="GitHub" /></a>&nbsp;&nbsp;
+    <a href="mailto:pethersonzada@gmail.com" title="E-mail"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="38" alt="E-mail" /></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/pethersonzada/" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="38" alt="Instagram" /></a>
   </p>
 </div>
+
+--- 
 
 ## Stack Tecnológica
 
